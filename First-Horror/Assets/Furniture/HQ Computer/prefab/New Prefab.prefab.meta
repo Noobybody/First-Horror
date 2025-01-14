@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf4d8b9fba6a228418726eccde675369
+timeCreated: 1498037786
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93276
+  packageName: HQ Computer
+  packageVersion: 1.0
+  assetPath: Assets/HQ Computer/prefab/New Prefab.prefab
+  uploadId: 186093

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8765ab89127cd3d4791c91a494c0b518
+timeCreated: 1498032552
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93276
+  packageName: HQ Computer
+  packageVersion: 1.0
+  assetPath: Assets/HQ Computer/materials/mouse.mat
+  uploadId: 186093

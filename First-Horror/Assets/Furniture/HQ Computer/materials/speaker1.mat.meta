@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5328ec838fc436844b68747a43a17988
+timeCreated: 1498037404
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93276
+  packageName: HQ Computer
+  packageVersion: 1.0
+  assetPath: Assets/HQ Computer/materials/speaker1.mat
+  uploadId: 186093

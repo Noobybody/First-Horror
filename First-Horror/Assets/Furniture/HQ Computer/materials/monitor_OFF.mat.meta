@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba9ba72f50a36b4469cbb6ef6251e2d5
+timeCreated: 1498037732
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93276
+  packageName: HQ Computer
+  packageVersion: 1.0
+  assetPath: Assets/HQ Computer/materials/monitor_OFF.mat
+  uploadId: 186093
